@@ -1,1 +1,1 @@
-# AmazonClone
+AmazonClone is a fully responsive front-end replica of the Amazon homepage, built using HTML, CSS, and JavaScript. This project mimics the design and core functionalities of the Amazon site, including product listings, a search bar, and a simulated shopping cart. By utilizing JavaScript for dynamic content and interactivity, the clone emphasizes user experience, clean design, and responsiveness across various screen sizes.
